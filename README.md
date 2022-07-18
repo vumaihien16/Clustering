@@ -14,6 +14,8 @@ Caractéristiques du dataset :
 
 
 - La fiche produit manque pour le produit id = 0_2245 vendu 103 fois, que pensez vous?
+
+
 Une série d’indicateurs statistiques de tendances centrales et dispersions doivent être calculés sur les différentes variables quantitatives disponibles. On peut également envisager de calculer par exemple ces indicateurs par catégorie, tranche d’âge, etc.
 Dans tous les cas, l’évolution du chiffre d’affaires dans le temps est indispensable,
 
