@@ -15,7 +15,7 @@ Caractéristiques du dataset :
 
 - La fiche produit manque pour le produit id = 0_2245 vendu 103 fois, que pensez vous?
 
-* Demandes de l'équipe Marketing 
+##Demandes de l'équipe Marketing 
 
 
 Une série d’indicateurs statistiques de tendances centrales et dispersions doivent être calculés sur les différentes variables quantitatives disponibles. 
